@@ -1,0 +1,2 @@
+# 100 Days of Code - Python Learning Journey
+This repository contains my projects from the *100 Days of Code: The Complete Python Pro Bootcamp* by Angela Yu on Udemy. It showcases my progress in learning Python through small, practical projects, including interactive games, calculators, and visual art generators like the spirograph using the Turtle module. Each project includes clean code, clear documentation, and visual outputs where applicable, demonstrating core Python concepts such as loops, conditionals, functions, and graphics.
