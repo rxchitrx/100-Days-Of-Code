@@ -58,7 +58,7 @@ pip install pyperclip
 
 ## Customization
 - **Password Complexity**: Modify the `letters`, `numbers`, and `symbols` lists in `generate_password()` to change the character sets.
-- **Default Username**: Update the `user_entry.insert(0, "rachitmital@gmail.com")` line to set a different default email/username.
+- **Default Username**: Update the `user_entry.insert(0, "email@email.com")` line to set a different default email/username.
 - **File Path**: Change the `"data.txt"` file name or path in `save_info()` to store data elsewhere.
 
 ## Limitations
@@ -66,14 +66,3 @@ pip install pyperclip
 - The `logo.png` file is required; the application will fail if it's missing.
 - No data retrieval or editing functionality is implemented.
 
-## Contributing
-Feel free to fork this repository and submit pull requests for enhancements, such as:
-- Adding encryption for stored passwords.
-- Implementing data retrieval and editing features.
-- Enhancing the UI with additional styling or validation.
-
-## License
-This project is open-source and available under the MIT License.
-
-## Contact
-For questions or support, please open an issue on the repository or contact the maintainer.
